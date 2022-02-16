@@ -2,8 +2,8 @@
 - 👀 Learning and Teaching Code
 - 🌱 Mern Stack Development Enthusiast
 - 📫 Just Message me on twitter/ www.twitter.com/KashiCode
-- Will be professional in backend things_ Goal
-- CEO:  @KhadiDotPk
+- Will be professional in backend things_ as well as Frontend things <= Goal
+- Co-Founder @codgravity
 
 <!---
 kashifal/kashifal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
