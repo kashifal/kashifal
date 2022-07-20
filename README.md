@@ -1,9 +1,9 @@
-- 👋 Mohammed Kashif Solehry.
+- 👋 Kashif Sulehria.
 - 👀 Learning and Teaching Code
 - 🌱 Becoming Node
 - 📫 Just Message me on twitter/ www.twitter.com/KashiCode
 - Will be professional in backend things_ as well as Frontend things <= Goal
-- Co-Founder @kodwars
+- Co-Founder @coredemy
 - Would learn React/NodeJS in 100 Days InshAllah
 
 <!---
