@@ -3,8 +3,8 @@
 - 🌱 Becoming Node
 - 📫 Just Message me on twitter/ www.twitter.com/KashiCode
 - Will be professional in backend things_ as well as Frontend things <= Goal
-- Co-Founder @coredemy
-- Would learn React/NodeJS in 100 Days InshAllah
+- Part time React Supporter @ SoftPyramod
+-  
 
 <!---
 kashifal/kashifal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
