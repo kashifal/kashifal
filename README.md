@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Kashif</h1>
+<h1 align="center">Hi 👋, I am Kashif Sulehria</h1>
 <h3 align="center">Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifal&label=Profile%20views&color=0e75b6&style=flat" alt="kashifal" /> </p>
